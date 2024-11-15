@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Marve-MJ
+- 👋 Hi, I’m @Marvel-MJ
 - 👀 I’m interested in web or app development
 - 🌱 I’m currently learning to make app thalasemia
 - 💞️ I’m looking to collaborate on discord
 - 📫 How to reach me @marveliino_
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm actually not very interested in this field
 
 <!---
