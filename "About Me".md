@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marve-MJ
 - 👀 I’m interested in web or app development
 - 🌱 I’m currently learning to make app thalasemia
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on discord
 - 📫 How to reach me @marveliino_
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i'm actually not very interested in this field
